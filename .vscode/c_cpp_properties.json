@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/andrey/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/andrey/catkin_ws/src/ar_track_alvar/ar_track_alvar/include/**",
+        "/home/andrey/catkin_ws/src/aruco_ros/aruco/include/**",
+        "/home/andrey/catkin_ws/src/aruco_ros/aruco_ros/include/**",
+        "/home/andrey/catkin_ws/src/courier/bumper_recovery/include/**",
+        "/home/andrey/catkin_ws/src/courier/costmap_prohibition_layer/include/**",
+        "/home/andrey/catkin_ws/src/courier/courier_ocam_ros/include/**",
+        "/home/andrey/catkin_ws/src/courier/courier_slam/include/**",
+        "/home/andrey/catkin_ws/src/courier/leg_tracker/include/**",
+        "/home/andrey/catkin_ws/src/rms_courier/include/**",
+        "/home/andrey/catkin_ws/src/courier/rs_depth_proc/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ]
+}
