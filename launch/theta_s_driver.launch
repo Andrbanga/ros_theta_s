@@ -1,0 +1,6 @@
+<launch>
+<node pkg="ros_theta_s" type="ThetaConverter.py" name="theta_converter" respawn="true" output="screen">
+		<param name="camera" value="/dev/video2" />
+        <param name="camera_topic" value="/theta_camera/image_raw" />
+</node>
+</launch>
